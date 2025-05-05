@@ -1,0 +1,13 @@
+.spacel{
+    margin:30px;
+}
+.logo-specifications{
+    margin:20px;
+    height:80px;
+    width:190px;
+    filter:grayscale(100%);
+    transition: filter 0.3s;
+}
+.logo-container:hover .logo-specifications{
+    filter: grayscale(0%);
+}

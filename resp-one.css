@@ -1,0 +1,14 @@
+.paragraph{
+    font-family:"Roboto";
+    font-size:20px;
+    font-weight:bold;
+    padding:30px;
+    color:antiquewhite;
+    text-align:center
+}
+.heading{
+    font-family:"Roboto";
+    font-size:20px;
+    font-weight: bold;
+    text-align: center;
+}

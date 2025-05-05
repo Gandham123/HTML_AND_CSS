@@ -1,0 +1,48 @@
+.image-specifications{
+    height:40px;
+    width:50px;
+}
+#specification-one{
+    font-family:"Roboto";
+    font-weight:300;
+    color: #323f4b;
+}
+.space{
+    margin-left: auto;
+}
+#specification-two{
+    font-family:"Roboto";
+    font-weight:300;
+    color:#323f4b;
+}
+#specification-three{
+    font-family:"Roboto";
+    font-weight:300;
+    color: #323f4b;
+}
+#specification-four{
+    font-family:"Roboto";
+    font-weight:300;
+    color: #323f4b;
+}
+.bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    background-size: cover;
+    height:100vh;
+    padding:10px;
+}
+.heading{
+    font-family:"Roboto";
+    font-size:50px;
+    font-weight:600;
+    color:#ffffff;
+}
+.buton-specification{
+    height:40px;
+    width: 120px;
+    color:#ffffff;
+    font-weight:300;
+    border-width: 0px;
+    border-radius:5px;
+    background-color:#1a2137;
+}

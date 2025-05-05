@@ -1,0 +1,27 @@
+.heading{
+    font-family:"Roboto";
+    font-size:30px;
+    font-weight:bold;
+    color:#323f4b;
+}
+.paragraph{
+    font-family:"Roboto";
+    font-size:20px;
+    color:#7b8794;
+
+}
+.image{
+    height:110px;
+    width:110px;
+}
+.card-heading{
+    font-family:"Roboto";
+    font-size:25px;
+    font-weight:500;
+    color:#323f4b;
+}
+.card-paragraph{
+    font-family:"Roboto";
+    font-size:15px;
+    color:#9aa5b1;
+}

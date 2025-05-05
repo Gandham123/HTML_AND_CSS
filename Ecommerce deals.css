@@ -1,0 +1,32 @@
+.do-bg-container{
+    background-color: #f5f7fa;
+    padding:10px;
+}
+.do-heading{
+    font-family:"Roboto";
+    font-size: 30px;
+    font-weight:bold;
+    color:#183b56;
+}
+.do-card-styling{
+    border-radius:15px;
+    background-color: #ffffff;
+}
+.do-card1-image{
+    height:150px;
+    width:150px;
+    border-radius: 20px;
+}
+.do-card-paragraph{
+    font-family:"Roboto";
+    font-size:20px;
+    color:#1f2933;
+    text-align: center;
+}
+.do-anchor-style{
+    font-family:"Roboto";
+    font-size:18px;
+    font-weight:bold;
+    color:#ff9f00;
+    text-decoration: none;
+}

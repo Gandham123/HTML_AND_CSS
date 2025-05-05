@@ -1,0 +1,47 @@
+.d-bg-container{
+    background-color: #f9fbfe;
+}
+.d-image-specifications{
+    width:100%;
+}
+.d-heading{
+    font-family: "ROboto";
+    font-size:30px;
+    font-weight:700;
+    color:#183b56;
+}
+.d-paragraph{
+    font-family: "Roboto";
+    font-size: 20px;
+    color:#5a7184;
+}
+.d-box-styling{
+    height:40px;
+    width:120px;
+    background-color:#d0b200;
+    border-radius:8px;
+    margin-right:10px;
+    border-width:0px;
+    color:#ffffff;
+}
+.d-payment-image{
+    height:80px;
+    width:70px;
+    margin:15px;
+}
+.d-payment-image-two{
+    height:80px;
+    width:80px;
+    margin:15px;
+
+}
+.d-payment-heading{
+    font-family: "Roboto";
+    font-weight:bold;
+    color:rgb(51, 51, 145);
+    font-style:italic;
+    font-size:30px;
+}
+.d-bg-container-three{
+    background-color: #d0b2001a;
+}

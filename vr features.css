@@ -1,0 +1,34 @@
+.bg-container{
+    padding:20px;
+    background-color:#ffffff;
+}
+.heading{
+    font-family:"Roboto";
+    font-size:40px;
+    font-weight:bold;
+    color:#1f2933;
+}
+.card-one{
+    text-align: center;
+}
+.image-specifications{
+    height:80px;
+    width:70px;
+}
+.card-heading{
+    font-family:"Roboto";
+    font-size:25px;
+    font-weight:500;
+    color:#1f2933;
+}
+.paragraph{
+    font-family: "Roboto";
+    font-size: 20px;
+    color:#7b8794;
+}
+.card-discription{
+    font-family:"Roboto";
+    font-weight: bold;
+    font-style: italic;
+    color:black;
+}

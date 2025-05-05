@@ -1,0 +1,44 @@
+.o-bg-container{
+    background-image: linear-gradient(to right,#f49541, #dd5d97);
+    padding:10px;
+    
+}
+.o-heading{
+    font-family: "Roboto";
+    font-size:30px;
+    font-weight:bold;
+    color:#ad2167;
+}
+.o-paragraph{
+    font-family: "Roboto";
+    font-size:20px;
+    color:#ffffff;
+}
+.o-paragraph-styloing{
+    font-family: "Roboto";
+    font-size:20px;
+    font-weight:bold;
+    color:#ffffff;
+    font-style: italic;
+
+}
+.o2-paragraph{
+    font-family: "Roboto";
+    font-size:25px;
+    color:#ffffff;
+    font-weight: bold;
+    padding-left:20px;
+}
+.o2-paragraph-styling{
+    font-family: "Roboto";
+    font-size:25px;
+    font-weight:bold;
+    color:yellow;
+    font-style: italic;
+}
+.o3-pargaraph{
+    font-family: "Roboto";
+    font-size:11px;
+    color:#ffffff;
+    text-align: center;
+}

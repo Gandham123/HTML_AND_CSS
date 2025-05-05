@@ -1,0 +1,22 @@
+.bg-container{
+    background-color: #222b36;
+    padding:20px;
+    text-align: center;
+    height:100vh;
+}
+.heading{
+    font-family:"Roboto";
+    font-size:40px;
+    color:#ffffff;
+    font-weight: bold;
+}
+.image-specifications{
+    width:100%;
+}
+#box{
+    border-style:solid;
+    border-radius:8px;
+    border-color:#ffffff;
+    border-width:1px;
+    background-color: transparent;
+}

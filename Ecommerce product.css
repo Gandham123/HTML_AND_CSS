@@ -1,0 +1,68 @@
+.p-heading{
+    font-family:"Roboto";
+    font-size:30px;
+    font-weight:bold;
+    color:rgba(21, 13, 94, 0.765);
+}
+.p-card-bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    height:400px;
+    width: 100%;
+    border-radius: 20px;
+}
+.p-card-heading{
+    font-family:"Roboto";
+    font-size:40px;
+    font-weight:bold;
+    color:#ffffff;
+}
+.p-card-paragraph{
+    font-family:"Roboto";
+    font-size:20px;
+    color:#ffffff;
+    padding-left: 10px;
+}
+.p-btn-styling{
+    height:40px;
+    width:130px;
+    border-width:0px;
+    background-color: #ffffff;
+    color:rgb(230, 230, 133);
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.pm-paragraph{
+    font-family:"Roboto";
+    font-size:17px;
+    font-weight:500;
+}
+.pm-heading{
+    font-family: "Roboto";
+    font-size:20px;
+    font-weight:bold;
+    color:#183b56;
+}
+.pm-btn2-styling{
+    height:40px;
+    width:80px;
+    border-width:1px;
+    background-color:#ffffff;
+    color:#183b56;
+    border-radius:5px;
+    border-style: solid;
+    margin-left: 10px;
+}
+.p2-card-bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    border-radius: 20px;
+    height:400px;
+    width:100%;
+}
+.pm3-heading{
+    font-family:"Roboto";
+    font-size:30px;
+    color:#183b56;
+}
+

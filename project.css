@@ -1,0 +1,214 @@
+.logo-specifications{
+    height:70px;
+    width:80px;
+}
+.space{
+    margin-left: auto;
+}
+#nav-item2{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+#nav-item3{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+#nav-item4{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+#nav-item5{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+.back-ground-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height:100vh;
+}
+.card-heading{
+    font-family: "Roboto";
+    font-size:45px;
+    color:#ffffff;
+    font-weight: 300;
+}
+.card-paragraph{
+    font-family: "Roboto";
+    font-size: 25px;
+  color:#f5f7fa;  
+}
+.menu-specifications{
+    font-family:"Roboto";
+    height:40px;
+    width:130px;
+    border-width: 0px;
+    border-radius:8px;
+    border-style: solid;
+    color:white;
+    background-color: #d0b200;
+
+}
+.order-now-specifications{
+    font-family:"Roboto";
+    background-color:transparent;
+    height:40px;
+    width:130px;
+    border-width: 1px;
+    border-color:#d0b200;
+    color:#d0b200;
+    border-radius:8px;
+}
+.w-back-ground-container{
+    background-color: #f9fbfe;
+}
+.w-main-heading{
+    font-family:"Roboto";
+    font-size:40px;
+    font-weight: bold;
+}
+.w-paragraph{
+    font-family:"Roboto";
+    font-size:20px;
+    color:rgb(110, 110, 110);
+}
+.w-card-one{
+    border-radius:10px;
+    border-color:#e5eaf4;
+    border-style:solid;
+    border-width:1px;
+    text-align:center;
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+}
+.w-card-image-specifications{
+    height: 100px;
+    width:80px;
+}
+.w-card-heading{
+    font-family:"Roboto";
+    font-size:25px;
+    font-weight: 300;
+}
+.w-card-paragraph{
+    font-family: "Roboto";
+    font-size:18px;
+    color:rgb(110, 110, 110);
+}
+.w-card-higliht{
+    font-style:italic;
+    font-weight: bold;
+    color:black;
+
+}
+.m-back-ground-container{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.m-main-heading{
+    font-family:"Roboto";
+    font-size:40px;
+    color:#183b56;
+    font-weight: 600;
+}
+.m-card{
+    background-color: white;
+    border-radius:15px;
+    padding:20px;
+}
+.m-card-image-specifications{
+    border-radius:20px;
+}
+.m-card-heading{
+    font-family:"Roboto";
+    font-weight:600;
+    color:#323f4b;
+    font-size:25px;
+}
+.m-menu-item{
+    color:#d0b200;
+    font-family:"Roboto";
+    font-size:15px;
+    font-weight:400;
+}
+.d-bg-container{
+    background-color: #f9fbfe;
+
+}
+.d-image-specifications{
+    width:100%;
+}
+.d-heading{
+    font-family: "ROboto";
+    font-size:30px;
+    font-weight:700;
+    color:#183b56;
+}
+.d-paragraph{
+    font-family: "Roboto";
+    font-size: 20px;
+    color:#5a7184;
+}
+.d-box-styling{
+    height:40px;
+    width:120px;
+    background-color:#d0b200;
+    border-radius:8px;
+    margin-right:10px;
+    border-width:0px;
+    color:#ffffff;
+}
+.d-payment-image{
+    height:80px;
+    width:70px;
+    margin:15px;
+}
+.d-payment-image-two{
+    height:80px;
+    width:80px;
+    margin:15px;
+
+}
+.d-payment-heading{
+    font-family: "Roboto";
+    font-weight:bold;
+    color:rgb(51, 51, 145);
+    font-style:italic;
+    font-size:30px;
+}
+.d-bg-container-three{
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+.modal-styling{
+    font-family:"Roboto";
+    font-size:30px;
+    font-weight:700;
+    color:#d0b200;
+    margin:20px;
+
+}
+.f-heading{
+    font-family:"Roboto";
+    font-size:40px;
+    font-weight:bold;
+    color:rgb(2, 8, 24);
+    text-align:center;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+.f-icon-styling{
+    color:#d0b200;
+    font-size:35px;
+}
+.f-box{
+    height:80px;
+    width:80px;
+    border-radius:40px;
+    background-color:#faf7e8;
+    margin:10px;
+    padding-top:22px;
+    padding-bottom:14px;
+    padding-right:16px;
+    padding-left: 22px;
+}

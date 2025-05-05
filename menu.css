@@ -1,0 +1,32 @@
+.m-back-ground-container{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.m-main-heading{
+    font-family:"Roboto";
+    font-size:40px;
+    color:#183b56;
+    font-weight: 600;
+}
+.m-card{
+    background-color: white;
+    border-radius:15px;
+    padding:20px;
+}
+.m-card-image-specifications{
+    border-radius:20px;
+}
+.m-card-heading{
+    font-family:"Roboto";
+    font-weight:600;
+    color:#323f4b;
+    font-size:25px;
+}
+.m-menu-item{
+    color:#d0b200;
+    font-family:"Roboto";
+    font-size:15px;
+    font-weight:400;
+}

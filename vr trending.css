@@ -1,0 +1,27 @@
+.heading{
+    font-family:"Roboto";
+    font-size: 40px;
+    color:#1f2933;
+    font-weight:bold;
+}
+.image-specifications{
+    width:100%;
+}
+.paragraph{
+    font-family:"Roboto";
+    font-size: 18px;
+    color:#959ead;
+    font-weight:200;
+}
+#paragraph-two{
+    color:#323f4b;
+    font-size:23px;
+    font-weight:500;
+}
+.styling{
+    font-family:"Roboto";
+    font-size: 23px;
+    color:#1754a1;
+    font-weight:700;
+
+}

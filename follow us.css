@@ -1,0 +1,24 @@
+.f-heading{
+    font-family:"Roboto";
+    font-size:40px;
+    font-weight:bold;
+    color:rgb(2, 8, 24);
+    text-align:center;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+.f-icon-styling{
+    color:#d0b200;
+    font-size:35px;
+}
+.f-box{
+    height:80px;
+    width:80px;
+    border-radius:40px;
+    background-color:#faf7e8;
+    margin:10px;
+    padding-top:22px;
+    padding-bottom:14px;
+    padding-right:16px;
+    padding-left: 22px;
+}

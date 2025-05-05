@@ -1,0 +1,57 @@
+.image-specification{
+    height:60px;
+    width:120px;
+}
+#stle1{
+    font-family:"Roboto";
+    font-weight:500;
+    color:#ffffff;
+}
+#stle2{
+    font-family:"Roboto";
+    font-weight:500;
+    color:#ffffff;
+}
+#stle3{
+    font-family:"Roboto";
+    font-weight:500;
+    color:#ffffff;
+}
+#stle4{
+    font-family:"Roboto";
+    font-weight:500;
+    color:#ffffff;
+}
+#stle5{
+    font-family:"Roboto";
+    font-weight:500;
+    color:#ffffff;
+}
+.bg-container{
+    background-image: url("https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png");
+    background-size: cover;
+    height:100vh;
+}
+.space{
+    margin-left:auto;
+}
+.heading{
+    font-family:"Roboto";
+    font-size:30px;
+    font-weight:bold;
+    color:#ffffff;
+    margin-bottom: 10px;
+}
+.pragraph{
+   font-family:"Roboto";
+    font-size:20px;
+    color:#ffffff;
+    margin-bottom: 10px;
+}
+.btn-styling{
+    height:40px;
+    width:130px;
+    border-width:0px;
+    background-color: #FFDDA9;
+    border-radius: 20px;
+}

@@ -1,0 +1,30 @@
+.card{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+    height:400px;
+    width:100%;
+    margin-top: 10px;
+    padding:30px;
+}
+.space{
+    color:#ffffff;
+}
+.line{
+    width:80px;
+    height:10px;
+    color:#ffffff;
+}
+.heading{
+    font-family: "Roboto";
+    font-size:30px;
+    font-weight:bold;
+    color:#ffffff;
+    margin-left:20px;
+}
+.paragraph{
+    font-family: "Roboto";
+    font-size:15px;
+    color:#ffffff;
+    
+
+}

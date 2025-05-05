@@ -1,0 +1,49 @@
+.fo-bg-container{
+    background-color: #0d2436;
+    padding:15px;
+}
+.fo-image{
+    height:80px;
+    width:160px;
+    margin-top:20px;
+}
+.fo-icon-card{
+    background-color: #152c3e;
+    height:80px;
+    width:80px;
+    border-radius: 40px;
+    padding-top:26px;
+    padding-bottom:22px;
+    padding-left: 19px;
+    padding-right:22px;
+    margin: 10px;
+}
+.fo-icon-styling{
+    font-size:30px;
+    color:#5a7284;
+}
+.fo-paragraph{
+    font-family:"Roboto";
+    font-size:20px;
+    color:rgb(180, 173, 173);
+    text-align: center;
+}
+.fo-heading{
+    font-family:"Roboto";
+    font-weight:bold;
+    font-size:26px;
+    color:#5a7184;
+}
+.fo2-paragraph{
+    font-family:"Roboto";
+    font-size:20px;
+    font-weight: 500;
+    color:#5a7184;
+}
+.line{
+    color:#ffffff;
+    width:100%;
+}
+.fo-bg-container2{
+    background-color: #152c3e;
+}

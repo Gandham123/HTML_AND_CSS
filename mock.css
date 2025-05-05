@@ -1,0 +1,16 @@
+.heading{
+    font-family:"Roboto";
+    font-size:25px;
+    color:blue;
+
+}
+.paragraph{
+    font-family:"Roboto";
+    font-size:18px;
+    font-weight: bold;
+}
+#paragraph2{
+    color:gray;
+    font-style: italic;
+
+}

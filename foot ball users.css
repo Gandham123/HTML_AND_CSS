@@ -1,0 +1,40 @@
+.spacea{
+    margin:30px;
+}
+.card-stylinga{
+    padding:20px;
+    transition:transform 0.2s;
+    margin-top: 50px;
+}
+.card-stylinga:hover{
+    transform: translateY(-10px);
+}
+.quote-styling{
+    font-weight:400;
+    color:#ff523b;
+    font-size: 50px;
+}
+.paragrapha{
+    font-family: "monospace";
+    font-size:20px;
+    color:#687683e5;
+}
+.stars-stylinga{
+    color:#ff523b;
+    font-weight:400;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.user-image-specifications{
+    height:100px;
+    width:100px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+.user-name{
+    font-family: "monospace";
+    font-size: 25px;
+    color:#323f4b;
+    font-weight: bold;
+
+}

@@ -1,0 +1,62 @@
+.logo-specifications{
+    height:70px;
+    width:80px;
+}
+.space{
+    margin-left: auto;
+}
+#nav-item2{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+#nav-item3{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+#nav-item4{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+#nav-item5{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+.back-ground-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height:100vh;
+}
+.card-heading{
+    font-family: "Roboto";
+    font-size:45px;
+    color:#ffffff;
+    font-weight: 300;
+}
+.card-paragraph{
+    font-family: "Roboto";
+    font-size: 25px;
+  color:#f5f7fa;  
+}
+.menu-specifications{
+    font-family:"Roboto";
+    height:40px;
+    width:130px;
+    border-width: 0px;
+    border-radius:8px;
+    border-style: solid;
+    color:white;
+    background-color: #d0b200;
+
+}
+.order-now-specifications{
+    font-family:"Roboto";
+    background-color:transparent;
+    height:40px;
+    width:130px;
+    border-width: 1px;
+    border-color:#d0b200;
+    color:#d0b200;
+    border-radius:8px;
+
+}
+

@@ -1,0 +1,50 @@
+.heading{
+    font-family:"Roboto";
+    font-size: 40px;
+    color:#1f2933;
+    font-weight:bold;
+}
+.image-specification{
+    width:100%;
+}
+#card-heading{
+    color:#ffffff;
+    font-size:30px;
+    font-weight: 500;
+}
+.bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    height:100vh;
+    width:100%;
+    background-size: cover;
+}
+.paragraph{
+    font-family:"Roboto";
+    font-size: 18px;
+    color:#ffffff;
+    font-weight:0;
+}    
+#box{
+    border-style: solid;
+    background-color: transparent;
+    border-color:#ffffff;
+    border-width:1px;
+    width:130px;
+    height:40px;
+}
+.bg-container-2{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    height:100vh;
+    width:100%;
+    background-size: cover;
+}
+.box-styling{
+    color:#ffffff;
+    background-color:#1754a1;
+    width:130px;
+    height:40px;
+    border-width: 0px;
+}
+.space{
+    text-align: right;
+}

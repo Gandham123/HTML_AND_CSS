@@ -1,0 +1,46 @@
+.s-bg-container{
+    background-color: #52606d;
+    padding:20px;
+}
+.s-heading{
+    font-family:"Roboto";
+    font-size:25px;
+    font-weight:bold;
+    color:yellowgreen;
+
+}
+#s-second-heading{
+    font-size:40px;
+    color:#ffffff;
+}
+.card{
+    background-color: #323f4b;;
+    padding:20px;
+    border-radius:10px;
+}
+.s-image{
+    height:80px;
+    width:80px;
+    
+}
+.s-card-heading{
+    font-family:"Roboto";
+    font-size:30px;
+    font-weight:bold;
+    color:#ffffff;
+    font-weight:bold;
+
+}
+.s-paragraph{
+    font-family:"Roboto";
+    font-size:25px;
+    font-weight:bold;
+    color:#9aa5b1;
+    font-weight:500;
+
+}
+.s-icons{
+    font-size: 80px;
+    color:yellowgreen;
+    font-weight: 500;
+}

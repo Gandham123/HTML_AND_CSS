@@ -1,0 +1,14 @@
+.image-specifications{
+    width:100%;
+}
+.heading{
+    font-family:"Roboto";
+    font-size:30px;
+    font-weight: bold;
+    color:#1f2933;
+}
+.paragraph{
+     font-family: "Roboto";
+     font-size:20px;
+     color:rgb(105, 104, 104);
+}

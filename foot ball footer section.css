@@ -1,0 +1,36 @@
+.footer-background-specification{
+    background-color: black;
+    padding:30px;
+}
+.footer-heading{
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    color:#ffffff;
+    margin-bottom: 20px;
+}
+.footer-paragraph{
+    font-family:"Roboto";
+    font-size:18px;
+    color:gray;
+    margin-bottom:20px;
+}
+.fotter-image-specifications{
+    height:40px;
+    width:150px;
+    margin-right:10px;
+    margin-bottom: 20px;
+}
+.footer-psace{
+    margin-bottom: 30px;
+}
+.footer-background-space{
+    margin-top:70px;
+}
+.line-specifications{
+    width: 100%;
+    margin-top:30px;
+    margin-bottom:30px;
+    color:#ffffff;
+}
+

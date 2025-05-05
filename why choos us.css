@@ -1,0 +1,42 @@
+.w-back-ground-container{
+    background-color: #f9fbfe;
+}
+.w-main-heading{
+    font-family:"Roboto";
+    font-size:40px;
+    font-weight: bold;
+}
+.w-paragraph{
+    font-family:"Roboto";
+    font-size:20px;
+    color:rgb(110, 110, 110);
+}
+.w-card-one{
+    border-radius:10px;
+    border-color:#e5eaf4;
+    border-style:solid;
+    border-width:1px;
+    text-align:center;
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+}
+.w-card-image-specifications{
+    height: 100px;
+    width:80px;
+}
+.w-card-heading{
+    font-family:"Roboto";
+    font-size:25px;
+    font-weight: 300;
+}
+.w-card-paragraph{
+    font-family: "Roboto";
+    font-size:18px;
+    color:rgb(110, 110, 110);
+}
+.w-card-higliht{
+    font-style:italic;
+    font-weight: bold;
+    color:black;
+
+}

@@ -1,0 +1,39 @@
+.fot-bg-container{
+    background-color: #001c32;
+    padding:20px 10px 20px 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.fot-image{
+    height:100px;
+    width:100px;
+    border-radius: 50px;
+}
+.fot-heading{
+    font-family:"Roboto";
+    font-size:35px;
+    font-weight:bold;
+    color:#cced00;
+    
+}
+.fot-paragraph{
+    font-family:"Roboto";
+    font-size:25px;
+    color:#9aa5b1;
+
+}
+.fotter-special{
+    padding-left: 10px;
+}
+.fot-card-styling{
+    padding-left: 20px;
+}
+.fot-icon-styling{
+    font-size:30px;
+    color:#5a7184;
+    margin-right: 20px;
+}
+.fot-bg-container2{
+    background-color: #0d2436;
+}
