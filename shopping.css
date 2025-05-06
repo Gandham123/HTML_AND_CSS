@@ -1,0 +1,45 @@
+.top-card{
+    background-color: #894bca;
+}
+.heading{
+    font-family:"Roboto";
+    font-size:40px;
+    font-weight: bold;
+    color:#ffffff;
+    padding:30px;
+    
+}
+.image-specifications{
+    height:250px;
+    width:230px;
+}
+.bottom-card{
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    padding:20px;
+    background-color:#ffffff;
+}
+.second-heading{
+    font-family:"Roboto";
+    font-size:30px;
+    font-weight:bold;
+    color:#f780c3;
+}
+.first-card{
+    padding:20px;
+}
+.image{
+    height:100px;
+    width:100px;
+}
+.card-heading{
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size:30px;
+    color:#323f4b;
+}
+.paragraph{
+    font-family:"Roboto";
+    font-size:20px;
+    color:#7b8794;
+}

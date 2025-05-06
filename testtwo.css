@@ -1,0 +1,29 @@
+
+.heading{
+    height: 125px;
+    width: 125px;
+    background-color:#fdba74;
+    margin-bottom:0px;
+    font-family: "Roboto";
+    font-size: 20px;
+    color:#ffffff;
+    
+}
+.heading2{
+    height: 125px;
+    width: 125px;
+    background-color:#ea580c;
+    margin-bottom:0px;
+    font-family: "Roboto";
+    font-size: 20px;
+    color:#ffffff;
+}  
+.heading3{
+    height: 125px;
+    width: 125px;
+    font-family: "Roboto";
+    margin: 0px;
+    font-size: 20px;
+    color:#ffffff;
+    
+}

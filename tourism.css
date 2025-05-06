@@ -1,0 +1,19 @@
+.description{
+    padding: 20px;
+}
+.heading{
+    color: #323f4b;
+    font-family: "Roboto";
+    font-family: 25px;
+    font-weight:bold;
+}
+.paragraph{
+    font-family:"Roboto";
+    color:#9aa5b1;
+    font-size:15px;
+}
+.gap{
+    height:100px;
+    width:100px;
+    border-radius:15px;
+}

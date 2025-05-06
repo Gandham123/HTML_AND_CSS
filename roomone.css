@@ -1,0 +1,45 @@
+.bg-container{
+    background-image:url('https://assets.ccbp.in/frontend/static-website/flats-list-d1-img.png');
+    background-size: cover;
+    height:40vh;
+}
+.heading{
+    font-family: "Roboto";
+    font-weight:bold;
+    color:#f19116;
+    font-size:30px;
+    margin-top:30px;
+}
+.card{
+    background-color: #222222;
+    padding:20px;
+}
+.image-specifications{
+    height:40px;
+    width:40x;
+    margin-top:5px;
+}
+.paragraph{
+    font-family:"ROboto";
+    color:#ffffff;
+    font-size:20px;
+    font-weight: bold;
+    padding:10px;
+}
+.line{
+    color:#ffffff;
+    width:2px;
+}
+.paragraph{
+    font-family:"ROboto";
+    color:#ffffff;
+    font-size:20px;
+}
+.btn{
+    background-color:#f19116;
+    height:max-content;
+    width:110px;
+    color:#ffffff;
+    font-size:15px;
+    border-radius:10px;
+}

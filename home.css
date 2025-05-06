@@ -1,0 +1,50 @@
+.bg-container{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    background-size: cover;
+    padding:30px;
+    background-color: #03174c;
+}
+.heading{
+    font-family:"Roboto";
+    font-size:30px;
+    color:#ffffff;
+    font-weight:bold;
+    text-align:center;
+    margin-top:40px;
+}
+.paragraph{
+    font-family:"Roboto";
+    color:#ffffff;
+    font-size:15px;
+    text-align:center;
+}
+.img{
+    width:90vw;
+    margin-top:100px;
+}
+.middle-card{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    height:40vh;
+    background-size: cover;
+    margin-top:100px;
+}
+.heading2{
+    font-family:"Roboto";
+    font-size:40px;
+    color:#ffffff;
+    font-weight:bold;
+    text-align:center;
+}
+.bottom-card{
+    background-color:#03174c;
+    height: 30vh;
+}
+.btn{
+    background-color:#8e97fd;
+    height:max-content;
+    width:120px;
+    border-radius:20px;
+    color:#ffffff;
+    font-size:15px;
+    font-weight: bold;
+}

@@ -1,0 +1,55 @@
+.back-ground{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    height:100vh;
+    background-size:cover;
+    text-align: center;
+}
+.b1{
+    background-color: white;
+    padding: 15px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+}
+.paragraph{
+    color:black;
+}
+.main-heading{
+    color:skyblue;
+    font-family: "Roboto";
+}
+.button{
+    color: white;
+    background-color: #25b1cc;
+    border-width: 0px;
+    border-radius: 15px;
+    height: 38px;
+    width: 138px;
+}
+.favouritie-places-bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/tajmahal-img.png");
+    background-size: cover;
+    padding:10px;
+    font-family: "Bree-Serif";
+}
+.favouritie-places-card {
+
+    background-color: white;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 15px;
+}
+.favouritie-places-card-heading{
+    color:aqua;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+.favouritie-places-card-paragraph{
+    font-family: "Roboto";
+    font-weight: bold;
+
+}
+.favouritie-places-card-image{
+    height: 130px;
+    width:110px ;
+}

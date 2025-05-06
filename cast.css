@@ -1,0 +1,34 @@
+.bg-container{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height:40vh;
+    background-size: cover;
+    padding:20px;
+}
+.heading{
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight:bold;
+    color:#ffffff;
+}
+.img{
+    height:140px;
+    width:140px;
+}
+.heading2{
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight:bold;
+    color:#151765;
+
+}
+.paragraph{
+    color:#5a7184;
+    font-family:"Roboto";
+    font-size:12px;
+}
+.bottom-container{
+    padding:15px;
+}
+.bottom-card{
+    margin:20px;
+}

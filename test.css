@@ -1,0 +1,36 @@
+.heading{
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    padding:30px;
+}
+.leaf-button{
+    background-color:#007854;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    height:80px;
+    width:50px;
+}
+.get1{
+    background-color: #ffd0b5;
+    height:40px;
+    width:80px;
+    border-color: #841003;
+    border-style: dashed;
+}
+.get2{
+    background-color:lightcoral;
+    height:40px;
+    width:40px;
+    border-color: #5c0b33;
+    border-style:dotted;
+}
+.get3{
+    background-color:#ffffff;
+    height:80px;
+    width:80px;
+    border-color: #0c6b58;
+    border-style:solid;
+    border-radius: 40px;
+    border-width: 3px;
+}

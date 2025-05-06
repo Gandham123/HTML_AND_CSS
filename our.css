@@ -1,0 +1,31 @@
+.back-ground{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    height:100vh;
+    background-size:cover;
+    
+}
+.heading{
+    font-family: "Bree serif";
+    font-weight:bold;
+}
+.food-card{
+    background-color:#f6c56e;
+    color:#323f4b;
+    border-top-right-radius:13px;
+    border-top-left-radius: 13px;
+    padding:20px;
+    
+}
+.button{
+    background-color:#ffffff;
+    width: 136px;
+    border-radius:10px;
+    border-width: 0px;
+    font-size: 12px;
+    height:35px;
+    
+}
+.para{
+    font-family:"Roboto";
+    font-weight:bold;
+}

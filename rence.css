@@ -1,0 +1,21 @@
+.bg-container{
+    height:80vh;
+    width:100vw;
+}
+.heading{
+    font-family:"Roboto";
+    font-size:35px;
+    font-weight: bold;
+    text-align: center;
+    color:#183b56;
+}
+.paragraph{
+    color:#5a7184;
+    Font-family:"Ronboto";
+    text-align:center;
+    font-size:20px;
+
+}
+.gap{
+    text-align: center;
+}

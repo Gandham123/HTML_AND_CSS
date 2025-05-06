@@ -1,0 +1,13 @@
+.main-heading{
+    color: white;
+    text-align: center;
+}
+.image{
+    background-color:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png") ;
+    height: 100vh;
+    width: 50vw;
+
+}
+.paragraph{
+    padding: 5px;
+}

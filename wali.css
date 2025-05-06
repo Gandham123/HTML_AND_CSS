@@ -1,0 +1,44 @@
+.diwali-top{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 35vh;
+    background-size:cover;
+}
+.top-heading{
+    font-style: italic;
+    color:white;
+    width:60vw;
+    
+    padding:25px;
+    font-size: 45px;
+}
+.bottom-section{
+    background-color: #616e7c;
+    padding:25px;
+}
+.bottom-card{
+    background-color:white;
+    border-radius: 15px;
+    height: 220px;
+    width:150px;
+    text-align: center;
+    padding: 20px;
+    margin:40px;
+    
+}
+.card-image{
+    height: 80px;
+    width: 70px;
+}
+.card-name{
+    font-family: "Roboto";
+    font-size:20px;
+    
+}
+.heading-price{
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size:25px;
+}
+.buton{
+    text-align: center;
+}

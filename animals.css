@@ -1,0 +1,18 @@
+.bg-container{
+    background-color:black;
+    height: 100vh;
+    padding:10px;
+}
+.heading{
+    font-family: "Roboto";
+    font-size:30px;
+    color:#ffffff;
+    font-weight:bold;
+}
+.spexifications{
+    height:130px;
+    width:120px;
+}
+.first-card{
+    margin-right:0px;
+}

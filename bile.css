@@ -1,0 +1,26 @@
+.heading{
+    font-family:"Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    color:#0a1f44;
+    
+}
+.img{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/iphoneX-bg.png");
+    height:60vh;
+    background-size: cover;
+}
+.bg{
+    border-color: black;
+    border-width: 2px;
+    border-style:solid;
+}
+.gap{
+    padding:30px;
+}
+.list{
+    font-weight: bold;
+}
+.button{
+    text-align: center;
+}

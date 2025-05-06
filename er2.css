@@ -1,0 +1,50 @@
+.top-container{
+    background-color: #fb4e71;
+}
+.text{
+    padding:20px;
+}
+.top-conntainer-heading{
+    font-family:"Roboto";
+    color:#ffffff;
+    font-weight:bold;
+    font:size 25px;
+}
+.paragraph{
+    font-family: "Roboto";
+    color:#ffffff;
+    font-size: 15px;
+}
+.bottom{
+    padding:20px;
+    background-color: #e6f6ff;
+}
+.bottom-heading-one{
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size:20px;
+}
+.bottom-card{
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+.bottom-card text{
+    padding:10px;
+}
+.card-heading{
+    font-family: "Roboto";
+    font-size: medium;
+}
+.card-paragraph{
+    font-size: 12px;
+    padding-top: 20px;
+}
+.bottom-heading-two{
+    padding-top: 20px;
+}
+.videos-paragraph{
+    font-size: 10px;
+    width:100px;
+    
+
+}

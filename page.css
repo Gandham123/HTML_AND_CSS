@@ -1,0 +1,30 @@
+.bg-container{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    width:100vw;
+    background-size:cover;
+    padding:20px;
+}
+.heading{
+    font-family: "Roboto";
+    font-size:30px;
+    color:#ffffff;
+    font-weight: bold;
+}
+.btn{
+    background-color:#ffffff;
+    height:40px;
+    width:100px;
+    font-size: 12px;
+    border-radius: 10px;
+    color:#ff6348;
+}
+.paragraph{
+    color:#ffffff;
+    font-family: "Roboto";
+}
+.h2{
+    font-family:"Roboto";
+    color:#ffffff;
+    font-size:30px;
+
+}

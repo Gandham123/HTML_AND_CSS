@@ -1,0 +1,58 @@
+.bg-container{
+    background-color:#1b1b1b;
+    padding:20px;
+}
+.heading{
+    font-family:"Roboto";
+    color:#ffffff;
+    font-size:30px;
+    font-weight: bold;
+}
+.top-card{
+    background-color: #e6f6ff;
+    border-radius: 15px;
+}
+.img{
+    height:150px;
+    width:120px;
+}
+.card-discription{
+    padding:10px;
+
+}
+.card-heading{
+    color:#183b56;
+    font-size:20px;
+    font-weight:bold;
+    font-family: "Roboto";
+}
+.paragraph{
+    color:#06070d;
+    font-size:12px;
+    font-family:"Roboto";
+    font-weight:bold;
+}
+.p2{
+    font-family:"Roboto";
+    font-size:10px;
+    color:#9aa5b1;
+}
+.button{
+    color:#ffffff;
+}
+.img2{
+    height:200px;
+    width:150px;
+}
+.second-card-heading{
+    font-weight: bold;
+    font-size: 25px;
+    color:#ffffff;
+    font-family: "Roboto";
+}
+.second-card-paragraph{
+    color:#ffffff;
+    font-family:"Roboto";
+    font-size:15px;
+    
+}
